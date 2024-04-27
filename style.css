@@ -21,6 +21,7 @@ body{
     transform: translate(-70%, -80%); 
     border: 2px solid white;
     box-shadow: 6px 4px 8px 0px rgba(0, 0, 0, 0.505);
+    cursor: pointer;
 }
 
 .logo-yt{
@@ -36,6 +37,7 @@ body{
     transform: translate(-70%, 50%); 
     border: 2px solid white;
     box-shadow: 6px 4px 8px 0px rgba(0, 0, 0, 0.505);
+    cursor: pointer;
 }
 
 .logo-github{
@@ -51,6 +53,7 @@ body{
     transform: translate(-70%, 90%); 
     border: 2px solid white;
     box-shadow: 6px 4px 8px 0px rgba(0, 0, 0, 0.505);
+    cursor: pointer;
 }
 
 .logo-instagram{
@@ -66,6 +69,7 @@ body{
     transform: translate(-70%, 90%); 
     border: 2px solid white;
     box-shadow: 6px 4px 8px 0px rgba(0, 0, 0, 0.505);
+    cursor: pointer;
 }
 
 .logo-twitter{
@@ -81,6 +85,7 @@ body{
     transform: translate(-70%, 90%); 
     border: 2px solid white;
     box-shadow: 6px 4px 8px 0px rgba(0, 0, 0, 0.505);
+    cursor: pointer;
 }
 
 .logo-facebook{
@@ -96,4 +101,12 @@ body{
     transform: translate(-70%, 90%); 
     border: 2px solid white;
     box-shadow: 6px 4px 8px 0px rgba(0, 0, 0, 0.505);
+    cursor: pointer;
+}
+
+.centro{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -1%);
 }
